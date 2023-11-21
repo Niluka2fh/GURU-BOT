@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['94779721235', 'aveesha', true],
-  ['94779721235', 'thushen, true], 
+  ['94741640693', 'avee, true], 
   [''] 
 ] //Number of owners
 
@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '@avee..._'
 global.premium = 'false'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'aveesha' 
 global.author = '@aveesha 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
